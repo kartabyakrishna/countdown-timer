@@ -30,4 +30,3 @@ To see the live preview [click here.](https://countdown-timer-seven-delta.vercel
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
