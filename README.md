@@ -4,7 +4,7 @@ A simple web page displaying a countdown timer to the date when you'll be going 
 
 ## Preview
 
-To see the live preview [click here.](https://countdown-timer-seven-delta.vercel.app/)
+To see the live preview [click here](https://countdown-timer-seven-delta.vercel.app/)
 
 ## Getting Started
 
